@@ -1,0 +1,25 @@
+{
+    "name": "Drew Shaw",
+    "age": 38,
+    "address": {
+        "street": "Michael Village",
+        "city": "Port Jessicamouth",
+        "state": "North Carolina",
+        "zip": "99164"
+    },
+    "contact": {
+        "phone": "(975)684-3050",
+        "servicePhone": "800777499"
+    },
+    "birthday": "1987-01-05",
+    "ip": "152.136.104.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Certainly language order mouth true.\nWide citizen stage set follow that.\nSomebody next true better concern best.",
+        "bio": "Similar voice check sometimes instead like. Let meet performance fight."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
