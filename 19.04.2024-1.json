@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa White",
+    "age": 66,
+    "address": {
+        "street": "Hammond Summit",
+        "city": "Smithville",
+        "state": "New Jersey",
+        "zip": "01874"
+    },
+    "contact": {
+        "phone": "(272)658-5606x2124",
+        "servicePhone": "800193056"
+    },
+    "birthday": "1959-24-06",
+    "ip": "150.10.2.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology senior dream change. Know generation source exist because western fact.\nPlayer share improve community. On tell day.",
+        "bio": "Remember type woman although science under drug. Allow whose character. Receive consider suddenly culture step area."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
