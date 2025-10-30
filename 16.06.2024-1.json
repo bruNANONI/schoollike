@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Novak",
+    "age": 76,
+    "address": {
+        "street": "Hernandez Mall",
+        "city": "Tashaberg",
+        "state": "Nevada",
+        "zip": "88744"
+    },
+    "contact": {
+        "phone": "482.788.0979",
+        "servicePhone": "800324314"
+    },
+    "birthday": "1949-29-11",
+    "ip": "55.45.163.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy town no early.\nPopular far southern economy.\nPersonal certain there line. Five stop sort reduce hospital food station. Financial local much despite such education mouth treatment.",
+        "bio": "Quickly house hospital president plan agent song. Check question certainly hold we plan. Rise me himself all heart laugh."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
