@@ -1,0 +1,25 @@
+{
+    "name": "Brian Waters",
+    "age": 76,
+    "address": {
+        "street": "Patricia Brooks",
+        "city": "Isaacborough",
+        "state": "New Mexico",
+        "zip": "38656"
+    },
+    "contact": {
+        "phone": "783.831.3505x3301",
+        "servicePhone": "800029470"
+    },
+    "birthday": "1949-08-07",
+    "ip": "4.80.113.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Give law clearly board meeting future. Talk particularly reality book. People customer officer or.\nGo institution real attack drug mean either teach. Floor along itself possible decade various.",
+        "bio": "Certain he there man born evening. Certain college continue material together police community some.\nStill peace few. At attack modern cold material. Able bar right arrive serve investment sit."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
