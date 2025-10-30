@@ -1,0 +1,25 @@
+{
+    "name": "Chelsey Schmidt",
+    "age": 68,
+    "address": {
+        "street": "Michael Harbors",
+        "city": "Vanessachester",
+        "state": "Oregon",
+        "zip": "26056"
+    },
+    "contact": {
+        "phone": "500-962-3185x1631",
+        "servicePhone": "800890905"
+    },
+    "birthday": "1957-08-11",
+    "ip": "104.39.151.213",
+    "foo": "bar",
+    "profile": {
+        "about": "When inside tonight spring. Rather deep world oil. All leg black performance its relate many.",
+        "bio": "Key president reveal television car purpose those available.\nFather your push positive hair reality."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
