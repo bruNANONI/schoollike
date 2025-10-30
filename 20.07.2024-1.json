@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Johnson",
+    "age": 106,
+    "address": {
+        "street": "Nicole Bridge",
+        "city": "South Susanville",
+        "state": "Arkansas",
+        "zip": "73697"
+    },
+    "contact": {
+        "phone": "+1-844-653-9635x430",
+        "servicePhone": "800436967"
+    },
+    "birthday": "1919-24-12",
+    "ip": "174.245.168.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman shake benefit again score. Provide adult fear agency knowledge resource.\nDemocratic send why professor. Street you sound. Reason her any may friend listen he hour.",
+        "bio": "Apply president become. Dinner identify baby prove model. View within whole address."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
