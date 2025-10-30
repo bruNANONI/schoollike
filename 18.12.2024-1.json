@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Calderon",
+    "age": 115,
+    "address": {
+        "street": "Kathryn Field",
+        "city": "Emilyland",
+        "state": "Hawaii",
+        "zip": "12845"
+    },
+    "contact": {
+        "phone": "562.702.8974x56947",
+        "servicePhone": "800851887"
+    },
+    "birthday": "1910-21-06",
+    "ip": "56.192.132.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose provide movement south reach note. Get protect church may.",
+        "bio": "Coach watch worker. Consumer court fund operation support space summer.\nOthers main laugh great else media together. Nice series many professor research charge son. Gun price set itself participant."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
