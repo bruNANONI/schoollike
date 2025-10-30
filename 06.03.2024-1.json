@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Davis",
+    "age": 15,
+    "address": {
+        "street": "Thomas Dam",
+        "city": "Colemanton",
+        "state": "Delaware",
+        "zip": "47730"
+    },
+    "contact": {
+        "phone": "+1-800-245-9709",
+        "servicePhone": "800988370"
+    },
+    "birthday": "2010-12-02",
+    "ip": "26.8.79.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Control kind how gun computer significant fill. Resource large range sound. News term his agent concern hospital material.",
+        "bio": "Notice place executive writer increase how. Support wear air blood record play group.\nBit school what research capital. Attack reality play agency father. Loss church their which."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
