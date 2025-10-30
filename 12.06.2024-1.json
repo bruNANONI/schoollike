@@ -1,0 +1,25 @@
+{
+    "name": "Maria Lee",
+    "age": 113,
+    "address": {
+        "street": "Acosta Bypass",
+        "city": "Hallside",
+        "state": "Maryland",
+        "zip": "68380"
+    },
+    "contact": {
+        "phone": "(913)229-9293x5895",
+        "servicePhone": "800464762"
+    },
+    "birthday": "1912-21-12",
+    "ip": "94.188.192.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe program understand list. Impact one major tell against red.",
+        "bio": "Inside right lead structure news. Control model condition identify mission. Energy sing exactly ever."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
