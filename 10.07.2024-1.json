@@ -1,0 +1,25 @@
+{
+    "name": "April Lee",
+    "age": 59,
+    "address": {
+        "street": "Powell Causeway",
+        "city": "West Shanestad",
+        "state": "Indiana",
+        "zip": "83464"
+    },
+    "contact": {
+        "phone": "408-796-2462",
+        "servicePhone": "800988874"
+    },
+    "birthday": "1966-09-08",
+    "ip": "160.126.10.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe father near ask. Weight vote certain anyone collection. Evidence discuss real one.\nPick week bar half prevent send. Ask animal position message area successful general.",
+        "bio": "Degree group must ability reality wear. Nothing firm author education.\nToward again nature. Your consumer perhaps. Son example air seat center."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
